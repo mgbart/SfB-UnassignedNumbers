@@ -1,0 +1,3 @@
+Identity,AnnouncementName,NumberRangeStart,NumberRangeEnd,AnnouncementService
+US-NewYork-FwdToReception,US-NewYork-Announcement,+12223334000,+12223334199,service:ApplicationServer:pool01.example.com
+US-SanFrancisco-FwdToReception,US-SanFrancisco-Announcement,+15556667000,+15556667500,service:ApplicationServer:pool01.example.com
