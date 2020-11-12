@@ -1,0 +1,3 @@
+Name,Language,TextToSpeechPrompt,TargetUri,Parent
+US-NewYork-Announcement,en-US,This number is no longer assigned... We are forwarding your call now.,sip:+12223334001@example.com,service:ApplicationServer:pool01.example.com
+US-SanFrancisco-Announcement,en-US,This number is no longer assigned... We are forwarding your call now.,sip:+15556667001@example.com,service:ApplicationServer:pool01.example.com
