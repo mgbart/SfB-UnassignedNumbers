@@ -11,7 +11,8 @@
 		Import CSV file to create SfB Unassigned Numbers.
 #>
 
-$CSVFile = "$PSScriptRoot\CSV\Create-UnassignedNumbers.csv"
+$Folder = "C:\share\enable-sfb\"
+$CSVFile = $Folder + "Create-UnassignedNumbers.csv"
 
 $CSV = import-csv $CSVFile
 

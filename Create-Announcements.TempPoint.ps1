@@ -11,8 +11,8 @@
 		Import CSV file to create SfB Announcements to use in SfB Unassigned Numbers
 #>
 
-
-$CSVFile = "$PSScriptRoot\CSV\Create-Announcements.csv"
+$Folder = "C:\share\enable-sfb\"
+$CSVFile = $Folder + "Create-Announcements.csv"
 
 $CSV = import-csv $CSVFile
 
